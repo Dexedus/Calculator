@@ -1,5 +1,5 @@
 html{
-background-color: hsl(24, 57%, 60%); ;
+background-color: hsl(0, 0%, 58%); ;
 }
 
 main{
@@ -11,12 +11,12 @@ main{
 }
 
 h1{
-   background-color: hsl(24, 57%, 60%); 
+   background-color: hsl(0, 0%, 58%); 
    margin-top: 50px;
    margin-bottom: -50px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    text-align: center;
-   color: rgb(255, 234, 196);
+   color: rgb(255, 255, 255);
 }
 
 .calculator{
@@ -61,7 +61,7 @@ button{
     height: 100px;
     width: 100px;
     border: none;
-    border-radius: 50px;
+    border-radius: 20px;
     background-color: hsl(0, 0%, 20%);
     color: white;
     font-size: 3rem;
