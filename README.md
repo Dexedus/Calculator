@@ -2,7 +2,7 @@
 
 This is a simple calculator I coded with the intent to use jQuery to make the JavaScript code as short as I could.
 
-I also wanted to keep my JS code out of my HTML, so I used a click event listener to scan the ID of whatever utton was clicked and to display the value of that ID on the calculator's main display.
+I also wanted to keep my JS code out of my HTML, so I used a click event listener to scan the ID of whatever button was clicked and to display the value of that ID on the calculator's main display.
 
             <button class="orange" id="+">+</button>
             <button id="7">7</button>
